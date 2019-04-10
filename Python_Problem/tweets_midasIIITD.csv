@@ -1,0 +1,898 @@
+,Text,Date,Time,Favorite_count,Retweet_count,count_media_files,Retweet
+0,"Applications open for MTech (CB) through JNU CEEB Admission process. Candidates can check the JNU CEEB admission process in the following links : 
+JNU CEEB - https://t.co/ciq1scu9Pm  
+IIITD - https://t.co/orPaYEeKBL https://t.co/l816beuIXr",Apr-10-2019,04:51:26,0,1,None,Yes
+1,"We are delighted to share that IIIT-Delhi is ranked 55 by NIRF this year. We have moved up by 11 positions compared to the previous ranking. 
+We take this opportunity to thank the faculty, officers, students, alumni, collaborators, and well-wishers for this achievement. https://t.co/FealgVAQO2",Apr-09-2019,16:45:07,0,13,None,Yes
+2,"Professor Jelani Nelson founded AddisCoder, a program that teaches students in Ethiopia how to code https://t.co/0sM06p4qxw",Apr-09-2019,05:04:27,0,35,None,Yes
+3,"For anyone interested in submitting to EMNLP 2019, the anonymity period begins in less two weeks, on April 21.
+https://t.co/dOfVWlL55u https://t.co/wwQiFZNuBa",Apr-09-2019,05:04:11,0,16,None,Yes
+4,Announcing the 2019 MediaEval multimedia tasks: https://t.co/V6NMt1vaNV Participation is open for anyone who is interested. Registration starts soon. @sigmm @ACMMM19,Apr-08-2019,19:38:09,0,15,None,Yes
+5,"Many Congratulations to @midasIIITD student, Shagun Uppal @shagunuppls, on getting selected for the summer internship in the BRAIN lab at Singapore University of Technology &amp; Design @sutdsg, Singapore.
+We wish her the best luck for the internship.
+
+#MIDAS #StudentAchievement https://t.co/snX2GkzvQg",Apr-08-2019,07:08:12,18,2,1,No
+6,@midasIIITD thanks all students who have appeared for the interview yesterday. We will announce the interview results for MIDAS internship latest by 14th April 2019. Sorry for the delay since we are carefully evaluating all applications that we have received for the internship. https://t.co/FANz5vImwU,Apr-08-2019,03:27:42,5,0,1,No
+7,"@himanchalchandr Meanwhile, complete CV/NLP task first.",Apr-07-2019,14:17:29,0,0,None,No
+8,@sayangdipto123 Submit as per the guideline again.,Apr-07-2019,14:17:09,0,0,None,No
+9,"We request all students whose interview are scheduled today to join at the time given to them and not before or after. We have other interviews scheduled which will be affected. 
+Thanks much.",Apr-07-2019,11:43:24,1,1,None,No
+10,"Other queries: ""none of the Tweeter Apis give the correct count of favorites tested for most of them, all give the wrong count. same is true for retweet. this mostly happens if the no. of likes, retweet is very large. So, what shld be done?""
+Ans: Just use the count given by API.",Apr-07-2019,06:55:19,5,2,None,No
+11,"Other queries: ""do we have to make two different repositories on Github as ""Python Problem"" and ""CV Problem"". Or we have to make a single repository named ""root"" and upload our code in that?""
+And: Have one repository of any name which has two folders. One python and other cv/nlp",Apr-07-2019,06:53:38,4,1,None,No
+12,"Other queries: ""If using Twitter api, it does not include any information about images in the response objects sent, so how do we retrieve the image info as requested?""
+Ans: U have to use twitter api or wrappers based on it like tweepy.
+Twitter API does provide image information.",Apr-07-2019,05:32:27,6,1,None,No
+13,"Response to some queries asked by students on @midasIIITD task.
+What does the line ""dump the responses into JSONlines file"" mean?
+It means you have to dump the response into a jsonlines file. jsonlines is a file extension more popularly know as .jsonl
+#MIDAS #Research #Internship",Apr-07-2019,05:29:40,7,1,None,No
+14,Top 8 #Free Must-Read #Books on #DeepLearning #KDN https://t.co/1DtlN91Yjj,Apr-06-2019,17:11:29,0,2,None,Yes
+15,"@nupur_baghel @PennDATS Congratulation @nupur_baghel on getting admit from @PennDATS. 
+She got 5/10 acceptance. She has worked at @midasIIITD on the #kikichallenge problem. We are glad to know that it inspired her to pursue further research. We wish her a great success ahead. 
+#MSc #DataScience #UPenn https://t.co/2daLOHGPBU",Apr-06-2019,16:43:27,18,3,1,No
+16,We have emailed the task details to all candidates who have applied to @midasIIITD internship through IIITD portal. Kindly check your spam folder if you have not received the email. We will evaluate all solutions received until April 10 midnight and announce results by April 14.,Apr-05-2019,16:08:37,11,1,None,No
+17,"Our NAACL paper on polarization in language on Twitter surrounding mass shootings is up on arXiv! https://t.co/g7wiegXxDg
+This is the first lead-author paper from Dora Demszky; she put a huge amount of work into it and I think it turned out extremely well.",Apr-05-2019,04:05:11,0,16,None,Yes
+18,Effective Transfer Learning For NLP https://t.co/Z1m0AzlfVv https://t.co/ccX4Uhxjn8,Apr-05-2019,04:04:43,0,11,1,Yes
+19,What’s new in @Stanford CS224N Natural Language Processing with Deep Learning for 2019? Question answering—1D CNNs—subword models—contextual word representations—transformers—generation—bias. YT playlist https://t.co/gFwwXJqYuQ – CS224N online hub https://t.co/HTnMzCAjS3 #NLProc https://t.co/rZKQvfUhiF,Apr-03-2019,18:31:53,0,59,None,Yes
+20,"Today we're releasing a large-scale extendable dataset of mathematical questions, for training (and evaluating the abilities of) neural models that can reason algebraically. 
+
+Paper: https://t.co/D8g477gcQ4
+Code and data: https://t.co/QvR2WkK7j2 https://t.co/EWqNqaOUd5",Apr-03-2019,17:04:32,0,872,None,Yes
+21,"Congratulations Jitendra Malik !
+
+Awards are raining on FAIRies these days... https://t.co/1WNcSeQLZe",Apr-03-2019,09:03:40,0,16,None,Yes
+22,"Another chance to take admission in the Ph.D. program in IIIT Delhi. 
+Admissions open for Ph.D. program mathematics 
+
+Log on to know more and apply: https://t.co/KgrmqscaIm
+
+#Admissions",Apr-03-2019,07:46:02,0,4,None,Yes
+23,"Dear @midasIIITD internship candidates who have submitted their solutions to the task, we have sent you an email regarding your results. 
+
+Students who have applied through @IIITDelhi, you will soon be contacted on the internship task. 
+
+#MIDAS #Summer #Research #Internship",Apr-02-2019,04:20:13,8,1,None,No
+24,"Looking forward to your paper submission to @IEEEBigMM19. 
+
+Important Dates:
+Regular Paper: 11:59pm PST, May 10, 2019     
+Short Paper: 11:59pm PST, May 10, 2019   
+Industry Paper: 11:59pm PST, May 10, 2019  
+Demonstration Paper: 11:59pm PST, May 10, 2019
+
+Contact TPC @RatnRajiv",Apr-02-2019,02:44:54,5,1,None,No
+25,Reproducibility in multimedia research in @sigmm records https://t.co/hOyMxtmy7A Plus reminder to past-year authors: Today 1 April AOE is the day to submit your repro abstract for @ACMMM19,Apr-02-2019,02:35:44,0,7,None,Yes
+26,"Online application for https://t.co/DJFDrQsHZP. Admission 2019 at @IIITDelhi has been open
+
+Log on to know more and apply: https://t.co/w7d2UMTVh7
+
+Last Date: 18th April 2019
+
+#MTech #IIITD #Admission",Apr-01-2019,06:53:08,7,2,None,No
+27,A final reminder of the Reproducibility Track: Authors of 2017 and 2018 papers are invited to submit a short reproducibility paper: ACM MM 2019 will feature a reproducibility poster session https://t.co/q2IFt9lTac https://t.co/zUJEmH6HAd,Mar-31-2019,10:21:24,0,10,None,Yes
+28,Thanks for the support and help @debanjanbhucs @RatnRajiv and @midasIIITD. It was a great learning experience! Glad to be part of the team. https://t.co/g45tIJQ18s,Mar-29-2019,19:43:24,0,2,None,Yes
+29,"Since SemEval-2019 will be held June 6-7, 2019 in Minneapolis, USA, collocated with NAACL-HLT 2019, it will great students for @midasIIITD students to attend the conference and learn from worldclass researchers. +@aggarwal_kartik",Mar-29-2019,17:16:40,9,1,None,No
+30,"+@aggarwal_kartik.
+Congrats! Wish you many more success.",Mar-29-2019,17:04:30,2,0,None,No
+31,"Our work (@midasIIITD ) accepted at SemEval 2019 at @NAACLHLT : ""MIDAS at SemEval-2019 Task 9: Suggestion Mining from Online Reviews using ULMFiT"". 
+We ranked 10th on the leaderboard. Code available at: https://t.co/Yuqbc3WjnB",Mar-29-2019,17:03:29,0,1,None,Yes
+32,"Congratulations! @midasIIITD team, @isarth23 @LaibaMehnaz @Simcyy @debanjanbhucs @RatnRajiv @the_dhumketu for getting two papers accepted at SemEval 2019. 
+Many thanks to our collaborators Haimin and Karan for their help.
+
+#NLP #Research #SocialMedia #Analytics #DeepLearning",Mar-29-2019,17:02:24,9,1,None,No
+33,"@EEMLcommunity @radamihalcea too many deadlines coming, @ACMMM19 @IEEEBigMM19 @EEMLcommunity",Mar-29-2019,05:35:22,0,0,None,No
+34,"CS224N Natural Language Processing with Deep Learning 2019 @Stanford course videos by @chrmanning, @abigail_e_see &amp; guests are now mostly available (16 of 20). Big update from 2017. YouTube playlist: https://t.co/gFwwXJqYuQ – new CS224N online hub: https://t.co/HTnMzCAjS3 #NLProc https://t.co/3S9iDX2e2o",Mar-28-2019,16:55:01,0,719,None,Yes
+35,Learn PyTorch by running on Google GPUs for free. https://t.co/pt038TMnWR,Mar-28-2019,16:54:37,0,155,None,Yes
+36,"Dr. Vineeth N Balasubramanian will present a Talk on ""Towards Explainable Deep Learning: Adding Why to What"" on 28th Mar 2019 (Thursday). Please find the details below:
+
+Time: 4 PM
+Venue: A007, R&amp;D Block
+
+#ResearchTalk #Multimedia #Explainable #DeepLearning https://t.co/Cyz7F5f29I",Mar-27-2019,16:09:09,4,1,1,No
+37,"I am extremely honored to be the recipient of the 2018 ACM A.M. Turing Award, and absolutely delighted to be sharing it with my friends and colleagues Geoffrey Hinton and Yoshua Bengio.
+
+NYT:... https://t.co/BIMuqDcZj0",Mar-27-2019,11:53:40,0,1545,None,Yes
+38,"Thanks to all shortlisted candidates for submitting their solutions for @midasIIITD internship task 2019. We are currently evaluating all solutions and will try to get back to all candidates in a week time. 
+
+#MIDAS #Summer #Research #Internship",Mar-26-2019,18:12:27,5,1,None,No
+39,"@IEEEBigMM19 @ACMMM19 and 6 days left for workshop proposal in @IEEEBigMM19.
+
+Contact @cchatto for any query.",Mar-26-2019,05:54:49,2,0,None,No
+40,"Hurry Up!
+6 Days left for Abstract Submission in @ACMMM19 
+45 Days left for Regular Paper Submission in @IEEEBigMM19 .
+
+Hectic time ahead or Multimedia Researchers :)",Mar-26-2019,05:50:10,0,3,None,Yes
+41,"Congratulations @midasIIITD students Simra Shahid @Simcyy and Nilay Shrivastava @NilayShri on getting selected for a research internship at Adobe in this summer. 
+
+#MIDAS #Achievment #Research #Summer #Internship https://t.co/WdF663EB5y",Mar-25-2019,13:01:57,18,1,1,No
+42,"The last date for submitting a solution for the @midasIIITD internship task is 26th March midnight. We will not accept solutions submitted after the deadline. 
+Thus, if you have not submitted your solution yet then kindly do so before the deadline. 
+#Summer #Research #Internship",Mar-24-2019,18:44:01,8,3,None,No
+43,@IIITDelhi invites application from Foreign Nationals/PIOs/NRIs/OCIs for admission to its https://t.co/u6kIuhIrGM and https://t.co/Q0ibR1xaDl Programs through IIIT-Delhi admission process for AY 2019-20. Visit Website for more information : https://t.co/CGWqrughDw https://t.co/c2o3593dbR,Mar-24-2019,18:26:02,0,4,None,Yes
+44,"One more week is left to submit the workshop proposal to @IEEEBigMM19. 
+Looking forward to your submission. For any query, contact workshop co-chair Dr. Chiranjoy Chattopadhyay @cchatto or TPC co-chair @RatnRajiv",Mar-24-2019,11:34:27,4,0,None,No
+45,We are honored to have Dr. Chang Wen Chen (Chinese University Hong Kong @CUHKofficial ) and Dr. Roger Zimmermann (National University Singapore @NUSingapore ) as our General co-chairs.,Mar-24-2019,06:23:37,0,5,None,Yes
+46,"Distinguished researchers Dr. Rajiv Ratn Shah @RatnRajiv (@IIITDelhi , @midasIIITD ), Dr. Jianquan Liu (NEC Japan) and Dr. Vivek Singh (Rutgers University @RutgersU ) will be our technical program co-chairs.",Mar-24-2019,06:23:14,0,3,None,Yes
+47,"@IEEEBigMM19 is also available on Facebook now. 
+LIKE its Facebook page https://t.co/B3Q0zmmzXb  to get the regular updates. 
+Check more details at https://t.co/w9ZymoPisk 
+
+#IEEE #BigMM19 #Big #Multimedia #Singapore",Mar-20-2019,08:19:24,1,1,None,No
+48,"BigMM 2019 : IEEE BigMM 2019 – Call for Workshop Proposals  
+
+https://t.co/I4vqf8FE6K …  
+When: Sep 11, 2019 - Sep 13, 2019 
+Where: Singapore
+Submission Deadline: Apr 1, 2019 
+Notification Due: Apr 10, 2019 
+
+#IEEE #BigData #Singapore #Multimedia",Mar-20-2019,02:40:07,0,5,None,Yes
+49,"BigMM 2019 : IEEE BigMM 2019 – Call for Workshop Proposals
+
+https://t.co/oUq2G0UgKN
+
+When: Sep 11, 2019 - Sep 13, 2019
+Where: Singapore
+Submission Deadline: Apr 1, 2019
+Notification Due: Apr 10, 2019
+
+#IEEE #BigMM #Workshop #Proposal #Singapore #Multimedia",Mar-18-2019,02:27:47,6,3,None,No
+50,"Congratulations @midasIIITD team, Rohan, Pradyumn, Ramit, @debanjanbhucs, @MADAIguy and @RatnRajiv for getting their paper titled, ""SNAP-BATNET: Cascading Author Profiling and Social Network Graphs for Suicide Ideation Detection on Social Media"", accepted at @NAACLHLT SRW.",Mar-17-2019,14:22:04,15,4,None,No
+51,"We have emailed the task details to all shortlisted candidates for @midasIIITD internship. Kindly check the same. 
+
+If you are one of the shortlisted candidates and have not received the email then check your SPAM first before approaching. 
+
+#MIDAS #Summer #Research #Internship",Mar-16-2019,14:06:56,7,0,None,No
+52,"IEEE BigMM 2019 - Call for Workshop Proposals. 
+
+Contact @midasIIITD @RatnRajiv @debanjanbhucs if you have any query. 
+
+Deadlines: 
+- Proposals due: April 1, 2019
+- Acceptance notification: April 10, 2019
+
+Further information:
+- Webpage: https://t.co/5XX5Wyxp5T
+
+#IEEE #BigMM19",Mar-16-2019,09:20:29,2,1,None,No
+53,"Congratulations! Arijit, Ramit, @debanjanbhucs @RatnRajiv for your @NAACLHLT  @naacl SRW 2019 paper, ""Speak Up, Fight Back! Detection of Social Media Disclosures of Sexual Harassment"". 
+
+Check more details at https://t.co/i6eAHg7gcN
+
+#MeToo #Student #Research  #Paper #NAACL",Mar-16-2019,09:14:58,7,2,None,No
+54,We will be releasing a very interesting task to shortlisted candidates for the internship at @midasIIITD today. You will be having 10 days to solve the same. You will get a detailed email on the task and submission instruction today. Looking forward to your out of box solution.,Mar-16-2019,05:13:14,7,2,None,No
+55,"Last day to register for #PortfolioCreationinDesign Workshop Indraprastha Institute of Information Technology, Delhi on 15th March by Ankur Sardana
+Register at - https://t.co/LlO29aGmaE 
+#HCDIIITD #workshop https://t.co/EWQ7fuGNDD",Mar-13-2019,17:09:44,0,2,None,Yes
+56,"@ACMMM19 @sigmm @TheOfficialACM @acmmmsys @ACMTVX @ACMICMR @euromm @Benoit_Huet @RatnRajiv @kelkalot 
+We need to clearly mention abstract and final submission deadlines at https://t.co/U7DTNNyw87
+
+Currently, we have just mentioned 1st April as the regular paper submission deadline. Kindly update. 
+
+#ACMMM19 #Nice #Multimedia https://t.co/ocOCrlFHLH",Mar-13-2019,04:11:24,1,0,1,No
+57,"The paper deadline is approaching. 1 April abstract is due. Authors will have until 8 April to upload the final PDF version of their paper submission. For complete submission information, see https://t.co/zKyqPAxErM @sigmm @TheOfficialACM @acmmmsys @ACMTVX @ACMICMR @euromm",Mar-13-2019,04:06:04,0,13,None,Yes
+58,Bookmark this amazing library of image augmentations 😵 by #Kaggle Masters @AlBuslaev @creaf @viglovikov and @cvtalks | https://t.co/7hTShJvbqZ #resources #machinelearning https://t.co/QMOfNmU8dH,Mar-12-2019,17:43:44,0,68,None,Yes
+59,"Awesome members of our @midasIIITD team who are working on Humonics projects. Great to have you on our team. 
+
+#team #research #AI #ML #projects https://t.co/lN7hItwPO9",Mar-12-2019,14:37:55,16,4,1,No
+60,"@saanidhi @ACMMM19 Before Friday, 15th March.",Mar-11-2019,14:58:30,0,0,None,No
+61,"We are glad to inform that Adobe is launching Women’s day Tech-Challenge to hire female engineers from 2019 Batch under our #SheCodes initiative. 
+Please register here for participating in the challenge at https://t.co/DjkKCJHDBC
+
+Check full details at https://t.co/5ArLu3icva",Mar-11-2019,12:02:42,4,0,None,No
+62,"We will email tasks to all shortlisted candidates for an internship at @midasIIITD by Friday, 15th March. If you are shortlisted and did not hear from us by that time then kindly drop an email to us. 
+
+Looking forward to working with you.
+
+#research #Internship #AI @ACMMM19",Mar-11-2019,11:54:38,3,0,None,No
+63,"@ACMMM19 @ACM_MM2018 @acmmm17 @sigmm @ACM Less than three weeks are left for @ACMMM19 submission. 
+Looking forward to your contribution to #ACMMM and see you in Nice, France. 
+@midasIIITD @iiit_hyderabad @iitdelhi @abhinavdhall @iitmadras @iiscbangalore @IITKanpur @iitbombay @iitkharagpur @IITJodhpur @iitropar @IIITDelhi",Mar-11-2019,06:22:12,1,1,None,No
+64,"Face Recognition using One-Shot Learning – #DeepLearning
+using DL architecture that works great with one-shot learning called Siamese Network.
+https://t.co/Z5oH9vrCns https://t.co/lAubt8vZrM",Mar-11-2019,06:17:20,0,64,None,Yes
+65,@AvinashSwamina2 @IIITDelhi No. They will be given tasks along with students who will be selected in the second round.,Mar-08-2019,13:22:07,1,0,None,No
+66,"We are in the process of finalizing the shortlisted candidates for internship at @midasIIITD which we have received in the second round.
+We will assign tasks to all shortlisted candidates around early next week. We are also delaying the task since DTU has mid-sem until 15 March.",Mar-08-2019,13:15:34,8,4,None,No
+67,@ylecun @NilayShri @the_dhumketu @debanjanbhucs will it be useful?,Mar-06-2019,13:44:11,3,0,None,No
+68,Python Data Science for Beginners https://t.co/yRExdmdZGh https://t.co/vRqTRuayO3,Mar-06-2019,11:12:30,0,22,1,Yes
+69,"Useful feature of our Python stanfordnlp: get lemmas &amp; morphology in many languages. Le ski de fond touché→lemma toucher feats Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part
+ei kerrottaisi→lemma kertoa feats Connegative=Yes|Mood=Cnd|VerbForm=Fin https://t.co/p6MhHyHLC2",Mar-03-2019,19:36:04,0,36,None,Yes
+70,"@NilayShri @NilayShri, Certain thing! The next team outing will be for lipreading team. 
+Probably, just after @ACMMM19 submission.",Mar-03-2019,17:09:48,1,0,None,No
+71,"At @midasIIITD, we not only work hard but also have fun. 
+Today, we had a team (for Humonics sponsored projects) outing at Pirates of Grill. It was a wonderful day with lots of fun. 
+
+#fun #lunch #MIDAS https://t.co/MEVA1NfHRd",Mar-03-2019,15:37:28,9,1,1,No
+72,"Considering several requests to extend the deadline for internship application, @midasIIITD at @IIITDelhi has decided that we will open the internship form https://t.co/t54AZ9eo26 again on March 7 and process all application received by March 8, 10 am.
+
+#research #Internship #AI",Mar-03-2019,14:55:31,6,2,None,No
+73,"39 studies about human perception in 30 minutes by @kennelliott 
+
+Awesome article. If you do any visualization or computer vision, these are things you need to know (but most people still don't know!)
+https://t.co/V5aR9a9q2C",Mar-03-2019,14:26:40,0,315,None,Yes
+74,Correction:   @midasIIITD at @IIITDelhi,Mar-02-2019,17:43:05,1,0,None,No
+75,"Thanks much to all aspirants who have applied for the summer internship 2019 at @midasIIITD at @midasIIITD. We have received over 200 applications. Thus, many good applications are not selected for next round. We have sent emails to all candidates, kindly check that for results.",Mar-02-2019,09:59:03,7,1,None,No
+76,Keras Hyperparameter Tuning in Google Colab Using Hyperas https://t.co/hmaI4ukJRX https://t.co/s3nTqqgnAb,Feb-28-2019,14:21:21,0,4,1,Yes
+77,"Great meeting with @midasIIITD alumnus, Sanket Jain today.
+He was among first MTech students who worked with me at @IIITDelhi.
+Currently, he works at @MicrosoftIndia in Bangalore office.
+Best wishes for his career.
+#MIDAS #Alumnus https://t.co/k8oCm8DdgU",Feb-26-2019,18:30:52,0,1,None,Yes
+78,"Correction: They have published the following paper only:
+
+PROMPT: Personalized User Tag Recommendation for Social Media Photos Leveraging Personal and Social Contexts.",Feb-26-2019,03:40:22,0,0,None,No
+79,"We will process all applications received by March 1, 2019 and notify all shortlisted candidates by March 3. 
+
+If you have not applied yet for @midasIIITD internship then you may do so by filling the form https://t.co/t54AZ9eo26
+
+#MIDAS #IIITD #Internship #NLP #ML #AI #DL #CV",Feb-25-2019,16:10:46,2,1,None,No
+80,"Jit Ghosh discusses the ""GloVe"" 2014 Stanford paper on word embeddings. This one was a great session! #paperreviewcalls #nlp #deeplearning https://t.co/bLhT8WpwqW",Feb-24-2019,03:39:40,0,8,None,Yes
+81,"This CVPR workshop is looking for applications of computer vision in developing countries. You don't need to submit a finished method paper, the workshop is actually seeking ideas for research directions and important problems to solve. https://t.co/jH1VuO3rx4",Feb-23-2019,15:41:27,0,90,None,Yes
+82,"PhD Admission 2019 are open now
+
+Online applications starts from 20th February 2019 and the last date to apply is 14th March 2019.. 
+
+For more details please visit the following link: https://t.co/DwK2DPkSAM",Feb-22-2019,11:54:49,0,8,None,Yes
+83,"#AI for Social Good study - how to inform policy, achieve interpretability, reduce bias and more -
+include review of global initiative and UN Goals
+contributions from 16 experts @teamrework https://t.co/KVArhQvbtN https://t.co/5ZQd0M7HPa",Feb-21-2019,16:27:54,0,14,None,Yes
+84,"@IIITDelhi has initiated PhD Admission 2019 process (Regular Round).
+
+Online applications start from 20th February 2019 and the last date to apply is 14th March 2019.
+
+For more details please visit the following link: https://t.co/qWa9I7CFqX.
+
+#IIITD #PhD #Admission",Feb-21-2019,06:39:27,2,1,None,No
+85,"We tend to focus mainly on creating learning algorithms, and yet there is so much that can be gained from unlearning. In humans, this is one of the main functions of sleep — so here we are ... sleeping neural networks!
+
+https://t.co/YHMe5MmO8w",Feb-21-2019,04:48:24,0,13,None,Yes
+86,"@RealAAAI @RatnRajiv Thanks, @RealAAAI for recognizing our efforts. 
+
+Congratulations, @midasIIITD students for winning Best Student Poster award at 33rd AAAI Conference on Artificial Intelligence. 
+
+Many thanks to authors, Raghav, @the_dhumketu Kshitij, @RatnRajiv @ponguru and Roger. 
+
+#AAAI19 #AI https://t.co/oKy1OYCOAR",Feb-20-2019,07:09:19,6,3,1,No
+87,"Deepak Gupta, has joined @Google today. 
+Earlier this week, Anupam Samanta, has also joined Google. 
+Both will be working at Google office in Mount View, California, USA. Having immense pride to see their success.
+
+They have published two papers with @midasIIITD head @RatnRajiv https://t.co/QEiIs5nTSn",Feb-20-2019,05:38:29,4,2,1,No
+88,"We are pleased to announce the multimedia Grand Challenges that will be offered at ACM Multimedia in 2019. Check out the list; more info available soon. 
+https://t.co/IWN1WK1Vh4
+@sigmm @ACM_MM2018 @acmmm17 @acmmm16 @acm",Feb-19-2019,17:16:24,0,15,None,Yes
+89,"In addition to projects related to NLP and Multimedia systems, we have open positions for 3D animation interns too. 
+Candidate should have knowledge of Maya character animation, modeling, and good drawing skills. 
+
+To apply, fill https://t.co/t54AZ9eo26
+and mention ""3D Animation""",Feb-19-2019,04:29:33,3,2,None,No
+90,What could the manufacturing industry teach healthcare?,Feb-19-2019,04:19:05,0,290,None,Yes
+91,Dr. Layla El Asri wants you to be able to talk to your machine just like you’d talk to another person. That’s the easy part. Tune in Wednesday to hear how @elasri_layla is getting your machine to understand and talk back to you like a human: #MSRPodcast: https://t.co/SxQB5g1RGh,Feb-19-2019,04:18:53,0,21,None,Yes
+92,"To apply for @midasIIITD internship at @IIITDelhi, fill the following form: https://t.co/t54AZ9eo26  
+
+Check more details at https://t.co/GvP3wsWtzX
+
+Pls share @debanjanbhucs @RatnRajiv @the_dhumketu @Hitkul_ @NilayShri 
+
+#Research #Internship #Multimedia #NLP #ML #DeepLearning",Feb-18-2019,17:29:44,11,9,None,No
+93,"Digital ag is Cornell’s newest radical collaboration initiative→https://t.co/hVXSnoSbnS
+#DigitalAg #Cornell @CornellNews https://t.co/uxAFPzN5iE",Feb-18-2019,05:37:59,0,6,None,Yes
+94,Introduction to StanfordNLP: a state-of-the-art NLP library for 53 languages @StanfordNLP #DataScience #NLP #NaturalLanguageProcessing https://t.co/6vxvBat1jS,Feb-17-2019,17:22:06,0,51,None,Yes
+95,"Looking forward to your participation in Multimedia Grand Challenges of @ACMMM19 
+
+Several interesting challenges are available at https://t.co/mGYxuvrve5
+
+@midasIIITD lab is looking forward to helping students from Indian institutes who plan to participate. 
+
+#ACMMM #Multimedia",Feb-17-2019,09:02:28,3,1,None,No
+96,"Consider attending National Workshop on Intelligent Multimodal Interfaces (NWIMI) at Indian Institute of Technology Jodhpur @IITJodhpur from March 9-10, 2019. 
+
+Check more details at https://t.co/lLLzl0dUaI",Feb-17-2019,08:49:36,1,0,None,No
+97,"Submissions are invited for a special issue of Cognitive Computation (Impact Factor: 3.479) on Affect Recognition in Multimodal Language.
+
+CFP - https://t.co/vP2Naq1C85
+
+Submission deadline - 05/05/2019
+
+Contact @soujanyaporia for further details.",Feb-17-2019,06:39:30,1,1,None,No
+98,https://t.co/qNFzJ7ZHki,Feb-16-2019,16:57:51,0,1,None,Yes
+99,"Congratulations to Manik Varma, @iitdelhi's Himanshu Jain, Venkatesh Balasubramanian and Bhanu Chunduri for winning the Best Paper Award at #WSDM2019 for their work on SLICE! Discover how extreme classification opens new approaches and unique applications: https://t.co/kAxF6RA2UO https://t.co/yYI43lOYJl",Feb-15-2019,08:22:23,0,13,None,Yes
+100,"Congratulations! Anupam Samanta on joining @Google as a software engineer. 
+
+Anupam worked with @midasIIITD head, Dr @RatnRajiv and published two research papers. Great to hear that Anupam got ML and Data Science team in Google due to his research experience and publications. https://t.co/IcuBbjEkjc",Feb-14-2019,15:56:14,14,4,1,No
+101,Using BERT for state-of-the-art pre-training for natural language processing https://t.co/wAyERwPw3r https://t.co/ghPTpClh3p,Feb-13-2019,18:56:13,0,5,1,Yes
+102,Attention authors of ACM MultiMedia 2018 and 2017 main conference papers. Submit a reproducibility paper to ACMMM 2019 https://t.co/q2IFt9lTac @ACM_MM2018 @acmmm17 @sigmm @ACM #ReproInScience #Multimedia https://t.co/xWZQ1fenV8,Feb-13-2019,15:54:52,0,11,None,Yes
+103,"9 Must-have skills you need to become a Data Scientist, updated https://t.co/OeeComtoWu https://t.co/DGq5qrQefc",Feb-13-2019,05:56:05,0,11,1,Yes
+104,"@ACMMM19 @ACM Just one week is left for workshop proposal. Kindly consider submitting it. 
+@midasIIITD @abhinavdhall @IIITDelhi @iiit_hyderabad @iitdelhi @IITKanpur @iiscbangalore @IITKgp @debanjanbhucs @the_dhumketu @RatnRajiv @fire_forum @iitmadras @soujanyaporia @NTUsg @iitbombay #ACMMM19",Feb-07-2019,19:21:52,1,1,None,No
+105,"@NilayShri @the_dhumketu Thanks, @NilayShri for sharing. 
+Indeed a very good work.",Feb-07-2019,15:49:59,0,0,None,No
+106,@midasIIITD @the_dhumketu this seems to be the 'trend' https://t.co/m6YfyTtwfX,Feb-07-2019,15:49:08,0,1,None,Yes
+107,"Machine Learning in Python by @PyImageSearch
+""Struggling to get started with machine learning using Python? In this step-by-step, hands-on tutorial you will learn how to perform machine learning using Python on numerical data and image data.""
+https://t.co/a0LohF8zyn https://t.co/629JMONg62",Feb-07-2019,06:23:10,0,53,None,Yes
+108,".@DeepMindAI and @Cambridge_Trust  are offering scholarships to under-represented students to study computer science. Open to applicants with an offer for MPhil in Advanced Computer Science, the deadline for 2019 start is 31 March. https://t.co/qSBESSwYgf https://t.co/fT3uCrYReP",Feb-06-2019,11:26:25,0,35,None,Yes
+109,"Google AI  and @DeepMindAI researchers have open-sourced the Hanabi Learning Environment, a testbed for collaborative multi-agent learning research. Check out the paper at https://t.co/kgGKKkNCcs and the code at https://t.co/Q0dWomA5U5",Feb-05-2019,18:32:54,0,212,None,Yes
+110,Edit: In the updated leaderboard we are now ranked 10th in the suggestion mining task! Thanks for updates @isarth23,Feb-05-2019,17:45:09,0,0,None,No
+111,"Congratulations! @isarth23. 
+It is our pleasure to work with you. 
+You are a gem of @midasIIITD. https://t.co/mOJQyhd26K",Feb-05-2019,17:44:27,4,0,None,No
+112,"In addition to OffensEval task, @midasIIITD has also performed well in the suggestion mining task (https://t.co/UiloRZiYSr) of SemEval 19. 
+
+We secured 11th rank in this task. 
+
+Congrats! @debanjanbhucs Raymond, Karan Uppal, @isarth23 @the_dhumketu @RatnRajiv for your hard work.",Feb-05-2019,12:09:44,5,1,None,No
+113,"Thanks, Karan Uppal and @RatnRajiv for all your support.",Feb-05-2019,11:55:41,1,1,None,No
+114,"@midasIIITD performance in OffensEval 2019 (SemEval 2019 - Task 6).
+
+In subtask-A, we came 5th out of 103 teams
+In subtask-B, we came 8th out of 75 teams
+We are very close to best results. 
+
+Congratulations! @debanjanbhucs, Raymond, @isarth23, @the_dhumketu, @LaibaMehnaz, @Simcyy https://t.co/NveQlv8wO8",Feb-05-2019,11:06:31,4,3,1,No
+115,One of the biggest obstacles to the adoption of #NLP and cognitive #AI is the lack of pretrained models in languages other than English. @StanfordNLP has released a full neural network pipeline for text #analytics with pretrained models in 53 languages. https://t.co/tFcbdIbP7P,Feb-04-2019,12:16:16,0,39,None,Yes
+116,"Students of @midasIIITD lab won the best student poster award at 33rd @RealAAAI 2019 conference in Honolulu, Hawaii for the paper, ""Mind Your Language: Abuse and Offence Detection for Code-Switched Languages"".
+
+Congrats! Raghav, Kshitij, @the_dhumketu @RatnRajiv @ponguru Roger.",Feb-04-2019,10:58:53,0,4,None,Yes
+117,"@RealAAAI 2019 summary for @midasIIITD.
+1 paper in main conference, 1 paper in EAAI, 2 papers published in student abstract and poster sessions. 
+We won the best student poster award. 
+6 researchers from MIDAS lab attended the conference.
+Got several interests for collaborations. https://t.co/JVo6pRMWL1",Feb-02-2019,05:05:16,7,3,1,No
+118,"@the_dhumketu @RealAAAI Congrats! Raghav, Kshitij, and @the_dhumketu for the best student poster award!
+Congrats @RatnRajiv @ponguru and Prof Roger Zimmermann for their guidance. 
+
+Have a great time in Honolulu, Hawaii, USA.",Feb-01-2019,07:46:57,3,1,None,No
+119,"Our paper titled, ""Mind Your Language: Abuse and Offence Detection for Code-Switched Languages"", won the best student poster award at 33rd @RealAAAI 2019 conference in Honolulu, Hawaii, USA. 
+
+Congratulations authors! Raghav, Kshitij, @the_dhumketu, @ponguru, and Roger. 
+
+#AAAI19 https://t.co/e5lFJhb6bi",Feb-01-2019,07:30:53,24,3,1,No
+120,"Very interesting talk by @ChenguangZhu2 at the @stanfordnlp seminar on SDNet, a new architecture for conversational question answering. https://t.co/Rb8PgEqLuP",Feb-01-2019,03:15:27,0,8,None,Yes
+121,"@midasIIITD @RatnRajiv
+@the_dhumketu 
+https://t.co/PkUa18lF8p",Feb-01-2019,03:13:23,0,2,None,Yes
+122,"CFP for @ACMMM19 has been posted on WikiCFP. Kindly share with your colleagues and submit your work to #ACMMM 2019.
+
+https://t.co/Kgti6H4W8g
+
+Please share, @IIITDelhi @iiit_hyderabad @precog_iiitd @iitdelhi @iitbombay @IITKgp @IITKanpur @_iitg @iiscbangalore @iitropar @lcs2iiitd",Jan-31-2019,06:57:04,1,1,None,No
+123,"@midasIIITD Lab is pleased to share our novel work titled, Harnessing GANs for Addition of New Classes in VSR (https://t.co/SdFNLNP2PR). 
+
+We present a novel approach to low-shot learning that uses the idea of imagination over unseen classes in a classification problem setting.",Jan-31-2019,05:50:19,4,2,None,No
+124,"If you are attending @RealAAAI and liked our work, Lipper, for speech reconstruction from silent videos using lipreading then kindly vote for our Lipper paper.
+
+https://t.co/7WNpMH8992
+
+Voting open for only limited time.
+
+Pls share @midasIIITD @the_dhumketu  @debanjanbhucs",Jan-31-2019,05:32:43,0,2,None,Yes
+125,"Great to be part of this year's accepted papers at @RealAAAI from India. Out of 25 papers from India, 6 from @IIITDelhi. 
+Congratulations IIITD, @midasIIITD, @NUSComputing. 
+
+Kindly attend our presentation. https://t.co/dOs3cvAZrK",Jan-30-2019,19:46:11,0,2,None,Yes
+126,Want to squelch fake news? Let the readers take charge https://t.co/Jusr6TMUse https://t.co/KDHmFDP9aE,Jan-30-2019,17:18:40,0,11,1,Yes
+127,"If you are attending @RealAAAI 2019 at Honolulu, Hawaii, USA then attend our talk in the Student Abstract Session for very interesting work on speech reconstruction from silent videos based on lipreading. 
+
+It is one of the first works of this kind. 
+Looking forward to seeing you https://t.co/rODmBKSONr",Jan-30-2019,05:00:29,3,1,1,No
+128,"If you are attending @RealAAAI 2019 then visit following sessions for our papers.
+
+3. Lipper: Synthesizing Thy Speech using Multi-View Lipreading
+- Time: Thursday, Main Paper Session
+- Authors: @the_dhumketu, Rohit, Salik, @RatnRajiv, Yifang, and Roger
+
+3/3",Jan-29-2019,19:42:10,5,2,None,No
+129,"If you are attending @RealAAAI 2019 then visit following sessions for our papers.
+
+2. Lipper: Speaker Independent Speech Synthesis using Multi-View Lipreading
+- Time: Wednesday, Student Abstract Session  
+- Authors: Salik, @the_dhumketu, Rohit, Swati, @RatnRajiv, and Roger
+
+2/3",Jan-29-2019,19:39:29,3,1,None,No
+130,"If you are attending @RealAAAI 2019 then visit following sessions for our papers.
+
+1. Mind Your Language: Abuse and Offense Detection on Code-Switched Languages
+- Time: Tuesday, Student Abstract Session (SAS)
+- Authors: Raghav, @the_dhumketu, Kshitij, @RatnRajiv, PK, Roger  
+
+1/3",Jan-29-2019,19:31:35,2,1,None,No
+131,"@TechAtBloomberg @debanjanbhucs It is a great experience to work with @debanjanbhucs.
+@midasIIITD looks forward to many more such works with Bloomberg.",Jan-29-2019,18:05:01,5,2,None,No
+132,Learn more about the collaborative efforts of researchers @debanjanbhucs &amp; Daniel Preoţiuc-Pietro w/ academics around the globe to publish papers at #AAAI2019 demonstrating the application of #textanalytics in education &amp; #NLProc for #socialmedia analysis https://t.co/Y6i31a1y6J,Jan-29-2019,18:03:31,0,5,None,Yes
+133,We as researchers working at Bloomberg also get opportunities to collaborate with academia. Here are the outcomes of two such collaborations published at AAAI 2019 #AAAI2019 @RealAAAI #EAAI19 @midasIIITD https://t.co/xfmWXhO3WC,Jan-29-2019,17:52:23,0,2,None,Yes
+134,"7 Steps to Mastering Basic Machine Learning with Python — 2019 Edition
+ https://t.co/yZExGjOVWH https://t.co/sJC8p2kTyp",Jan-29-2019,14:52:24,0,32,1,Yes
+135,"@TechAtBloomberg @debanjanbhucs @IIITDelhi @RatnRajiv Congrats, team @midasIIITD! https://t.co/ncsgSUusUb",Jan-29-2019,05:17:27,3,1,1,No
+136,"#Textanalytics researcher @debanjanbhucs joins @IIITDelhi's @RatnRajiv &amp; other co-authors to present ""Get IT Scored using AutoSAS - An Automated System for Scoring Short Answers"" during the #AI for #Education track (1:30-2:50 PM HST) at EAAI-19 https://t.co/5l2ftIHgpU #AAAI2019 https://t.co/efmAOUDUID",Jan-29-2019,04:40:47,0,5,None,Yes
+137,Top 16 #OpenSource #DeepLearning Libraries and Platforms #KDN https://t.co/TycxmMSCWs,Jan-28-2019,12:11:29,0,8,None,Yes
+138,"Using data from more than 6,000 patients, @EPrinceton researchers applied #machinelearning methods to design a system that could both reduce the frequency of blood tests and improve the timing of critical treatments. https://t.co/AFDeOBdQPx",Jan-28-2019,12:11:13,0,20,None,Yes
+139,In 1929 Cornell Lab founder Arthur Allen made the very first recordings of wild birds. Follow @MacaulayLibrary as they share bits of history every week in celebration. Here's more on our origins in sound: https://t.co/iDwhS4TpGY,Jan-28-2019,12:10:37,0,67,None,Yes
+140,"Natural Questions: A new QA dataset consisting of 300,000+ naturally occurring questions (posed to Google search) with human provided long &amp; short answers based on Wikipedia. Looks like an exciting new benchmark!
+Paper: https://t.co/JzRg3E8VQg
+Competition: https://t.co/avU2M0Wa9U https://t.co/DIsl11cvX0",Jan-25-2019,08:56:54,0,141,None,Yes
+141,10 More #Free Must-Read #Books for #MachineLearning and #DataScience #KDN https://t.co/EtMyAJFl6d,Jan-24-2019,15:43:25,0,24,None,Yes
+142,How to build an API for a machine learning model in 5 minutes using Flask https://t.co/VFN7NmCqTu https://t.co/oZ8rXEGM5w,Jan-24-2019,15:42:59,0,25,1,Yes
+143,@ACMMM19 @ACM @abhinavdhall consider submitting your proposal.,Jan-23-2019,10:24:14,0,0,None,No
+144,Jump start your @ACM #Multimedia workshop submission... First workshop titles are now online https://t.co/S9ZSaJTH1a But also remember: You can still submit a workshop proposal: Deadline 15 Feb https://t.co/DCk4ZK35fz https://t.co/fkBLm5F6SB,Jan-23-2019,10:23:34,0,10,None,Yes
+145,"@NUSComputing Congratulations! Yaman @the_dhumketu , Roger, Yifang, @RatnRajiv, Rohit, and Salik.",Jan-22-2019,14:04:40,1,1,None,No
+146,"⚡️ “Achievements”
+
+https://t.co/LvZt1GTY4C",Jan-22-2019,14:02:51,3,1,None,No
+147,"A/P Roger Zimmermann and his collaborators from IIIT Delhi developed a lipreading system that produces audio from lip movements detected in a silent video. The team won the Best Poster Runner Up award at the IEEE ISM conference for their work.
+
+Read more: https://t.co/VYIOWLxjWI https://t.co/Yx3UaQ9Fy7",Jan-22-2019,13:58:08,0,2,None,Yes
+148,"Welcome one member to our @midasIIITD family, SkyWalker. 
+It will strengthen our team with Falcon. 
+
+#midas #server #falcon #skywalker https://t.co/u6YOBaJ7DB",Jan-21-2019,16:29:31,9,1,1,No
+149,Dr @RatnRajiv Shah delivered a research talk in the National Symposium on Natural Languages Processing and Artificial Intelligence at the Manipal University Jaipur. He discussed different multimedia systems for society and healthcare which @midasIIITD lab is currently working on. https://t.co/cVAGyk9xAs,Jan-21-2019,15:19:33,6,2,1,No
+150,"Don't miss this new article from @ted_dunning, who presents practical methods for near real-time monitoring of machine learning systems.
+
+How to Monitor Machine Learning Models in Real-Time https://t.co/HwFojiwRMJ via @kdnuggets #ML #realtimemonitoring https://t.co/PDqNE2u8a8",Jan-21-2019,09:33:03,0,9,None,Yes
+151,Stuck inside with stir-crazy kids? 😫🤒😵Check out these downloadable machine learning projects designed for kids aged 8-16 👉https://t.co/i4Zzh3qngz https://t.co/OY7EIMMGfq,Jan-21-2019,09:32:03,0,37,None,Yes
+152,"@Princeton @nyuniversity @nytimes Team @midasIIITD, do we have the same trend in India?",Jan-21-2019,06:54:14,0,0,None,No
+153,Researchers find connections between worry and the development of heart disease https://t.co/yQ4miy8DHI,Jan-20-2019,05:49:19,0,77,None,Yes
+154,"Researchers across Stanford are exploring ways to predict and prevent preterm births, and to improve care for the highest-risk newborns. https://t.co/OncN0gqJfH",Jan-19-2019,18:15:35,0,8,None,Yes
+155,"Meet our members of @midasIIITD .
+
+https://t.co/2PFbtoDtDR
+
+We welcome new members to our group. 
+
+MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information. 
+
+#multimedia #research #lab",Jan-19-2019,09:59:16,7,2,None,No
+156,How to Monitor Machine Learning Models in Real-Time https://t.co/9UpYVzlQWI https://t.co/9lK9eoOVWe,Jan-19-2019,03:27:33,0,9,1,Yes
+157,"Congratulations! @Leomi7 @ashualloy @RatnRajiv Ayush, Himanshu, Aditya, Deepanshu, @isarth23 @rgrgrajat1",Jan-18-2019,10:25:41,6,0,None,No
+158,"#Pushshift is happy to announce a new dataset for your ML / NLP / Research pleasure -- Data for over 340+ Stackexchange sites including questions, answers, comments, users, tags and badges!
+
+https://t.co/uCDJnbzYfQ
+
+#bigdata #datascience #datasets",Jan-18-2019,10:17:02,0,20,None,Yes
+159,"Proceedings of FIRE 2018 is online now at https://t.co/vzLpwVp1Qb
+Our 4 papers are:
+1. Fully Automatic Approach to Identify Factual or Fact-checkable Tweets
+2. Multilingual Author Profiling from SMS
+3. NMT based Tamil Translation 
+4. Named Entity Recognition for Indian Languages",Jan-18-2019,10:16:26,10,2,None,No
+160,Only 20 percent of pediatric cancer patients in lower- and middle-income countries will survive. Engineering students partnered with @DanaFarber on a class project that could help save thousands of children’s lives: https://t.co/PMrF1beSip https://t.co/SJUldNyi9j,Jan-17-2019,04:04:16,0,26,None,Yes
+161,Can virtual reality transform medicine? Psychologist JoAnn Difede @WeillCornell began using #VR with soldiers and survivors from 9/11 suffering from PTSD. https://t.co/nAOPRd93tK,Jan-17-2019,04:03:55,0,11,None,Yes
+162,Explainable Artificial Intelligence https://t.co/rllNxnm73U https://t.co/mAYFPMJF8P,Jan-13-2019,16:45:48,0,20,1,Yes
+163,@abhinavdhall @RatnRajiv Emailed you.,Jan-13-2019,16:40:46,0,0,None,No
+164,"A comprehensive list of #MachineLearning Resources: Open Courses, Textbooks, #Tutorials, Cheat Sheets and more #KDN https://t.co/udItzi20oH",Jan-13-2019,16:03:25,0,41,None,Yes
+165,"Call for Book Chapter- Springer- Deep learning based approaches for sentiment analysis. Contact for more details.
+
+Important Dates:
+
+Abstract: Jan 15, 2019
+Notification: Jan 31
+Full chapter:  April 15
+First review: May 15
+Final notification: June 30
+Camera Ready: July 15",Jan-13-2019,07:19:19,6,1,None,No
+166,"The average woman is exposed to four medications during her pregnancy and over 80 percent of medications haven’t been studied in a like population. ""Pregnant women deserve better,"" @StanfordMed pediatrician Heather Byers says. ""It's a matter of justice."" https://t.co/5YTrUkP26I",Jan-12-2019,14:37:07,0,48,None,Yes
+167,@harvardmed @Harvard Another interesting direction to our previous work @MADAIguy @Leomi7,Jan-10-2019,08:51:20,1,0,None,No
+168,A first-of-its-kind strategy aims to improve outcomes for kidney cancer patients who are at high risk of recurrence following surgery https://t.co/MQh5vGH2A2,Jan-10-2019,08:50:35,0,27,None,Yes
+169,"Fortunate to have appreciation from my former NUS professor, Dr. Terence Sim.
+He also appreciated our @RealAAAI
+2019 paper on speech reconstruction from silent videos based on lireading.
+
+Congrats @Leomi7
+@MADAIguy @the_dhumketu
+
+#wacv #hawaii #nus #research https://t.co/13xFaFIAwL",Jan-10-2019,08:48:17,0,3,None,Yes
+170,The study provides potential future targets for drug development to treat osteoporosis https://t.co/YhfrOovdbO,Jan-09-2019,02:05:06,0,9,None,Yes
+171,"In the final episode of series one of our Futuremakers podcast series, hear from Professor Sir @Nigel_Shadbolt on where the field of artificial intelligence research has come from, and where it’s going... https://t.co/4IQw9WO012 https://t.co/nEdkpZTDUg",Jan-07-2019,09:05:12,0,16,None,Yes
+172,"@ACMMM19: Call for Workshop Proposals 
+
+Deadline: Friday 15 February 2019
+
+https://t.co/vpdx97ucNP
+
+#ACMMM19 #Multimedia #Research #Nice #France",Jan-06-2019,12:54:06,1,0,None,No
+173,"@ACMMM19: Call for Grand Challenge Proposals
+
+Deadline: Tuesday 8 January 2019
+
+Check more details at-  https://t.co/uT3bFAsjfU
+
+#ACMMM #Multimedia #Research #Nice",Jan-06-2019,04:29:25,1,0,None,No
+174,"Since 1993, ACM Multimedia has been bringing together researchers and practitioners from academia and industry to present innovative research results and discuss recent advancements. 
+
+Check @ACMMM19 website for more details: 
+https://t.co/QroXuO8ZAV
+
+#ACMMM #Multimedia #Research",Jan-06-2019,04:09:54,5,1,None,No
+175,"@ACMMM19 is structured around four themes (alphabetical):
+
+Engaging users with multimedia
+Multimedia experience
+Multimedia systems
+Understanding multimedia content
+
+Multimedia research focuses on integration of the multiple perspectives offered by different digital modalities.",Jan-06-2019,04:07:29,1,0,None,No
+176,"ACM Multimedia 2019: First Call for Papers/Call for Contributions
+@ACMMM19 is the premier international conference in the area of multimedia within the field of computer science.  
+Details on the conference themes are available on the conference website: 
+https://t.co/QroXuO8ZAV",Jan-06-2019,04:05:38,4,2,None,No
+177,Happy new year! 2019 started with a bang. Thanks to everyone working to help resolve the ACM webserver hack issues. Please watch here for the news that the website is virus free: should be soon.,Jan-03-2019,06:14:05,0,2,None,Yes
+178,"You may follow @midasIIITD updates through following:
+
+Website: https://t.co/sPvbKhflKQ
+Facebook: https://t.co/yMDAL2pof0
+LinkedIn: https://t.co/ZPNNnLTi8Z
+
+We look forward to producing some groundbreaking work in 2019 which can help society through ML and Multimedia Processing.",Jan-01-2019,17:21:49,4,2,None,No
+179,"Today, @midasIIITD completed one year at @IIITDelhi. In last one year, we have shown our strong presence in research communities of top-tier conferences and journals through our world-class research. This could not have been possible without the hard work of MIDAS researchers. https://t.co/zCdQr8Zfwe",Jan-01-2019,17:17:56,14,5,1,No
+180,Happy anniversary to @midasIIITD . It surely has been a productive year for us and hope to see some ground breaking work in the upcoming year.,Jan-01-2019,16:14:24,0,4,None,Yes
+181,"Two Research Assistant (RA) positions are still open. Contact us if you are eligible and interested to work on the mentioned projects. 
+
+PS: RAs are full-time jobs. Only apply if you have finished your studies.",Dec-27-2018,10:28:31,2,1,None,No
+182,"Positions for two Research Assistants (RA) are still open at @midasIIITD. Interested candidates may send their CV at midas AT https://t.co/ey7h1zgmKD
+PS: RAs are full-time positions. Thus, only candidates who have finished their study are requested to apply. 
+#MIDAS #Humonics #RA",Dec-27-2018,09:59:06,5,3,None,No
+183,"I wrote a blogpost on CoreNLP highlighting some of its functionality. If you want a quick dip before diving into the course, you can find it here: https://t.co/hijXt41s9Q https://t.co/ZbdKE16Wkq",Dec-27-2018,02:33:58,0,12,None,Yes
+184,"@RatnRajiv delivered a research talk at the Central Research Laboratories of NEC Corporation, Japan. He discussed several multimedia systems for society and healthcare. He had interesting pre and post-talk discussions on multimedia systems for cybersecurity that can help society. https://t.co/itWHzv0ias",Dec-26-2018,09:41:04,14,2,1,No
+185,@midasIIITD look forward to work together. https://t.co/nrpf32ODo2,Dec-25-2018,04:15:15,1,0,None,No
+186,"@the_dhumketu @punnibhai @Hitkul_, FYI. https://t.co/yZb9mdr6IB",Dec-25-2018,03:00:21,2,1,None,No
+187,"KCIS Distinguished Lecture by Andrew Zisserman on Learning from Sight and Sound. Three-time Marr Prize winner Zisserman is one of the principal architects of modern computer vision.
+Register to attend his lecture at https://t.co/mMetPJiOlD
+#iiith #kcis #andrewzisserman https://t.co/gmlVuuX0xD",Dec-24-2018,07:39:21,0,11,None,Yes
+188,"Our latest blog post is out! 
+
+Check it out for a recording and summary of highlights from the event ""AI and the Future of Work"" featuring Dr. Kai Fu-Lee @kaifulee, professor @Susan_Athey, and professor Erik Brynjolfsson @erikbryn.
+
+https://t.co/PR2TIWyRyF",Dec-21-2018,03:50:39,0,32,None,Yes
+189,"In two new papers, @PratikShahPhD and collaborators present novel #AI and machine learning methods to improve diagnosis at the point of care for conditions including prostate cancer and sepsis.
+https://t.co/wkcYL4Lqx2",Dec-20-2018,18:05:35,0,8,None,Yes
+190,"Wonderful get together with our NII colleagues. Prior to that we had a wonderful talk with Prof Chua Tat-Seng from National University of Singapore. It was inspiring talk and has given sevearl reseach directions to @midasIIITD team at NII.
+#research #NII #Tokyo #MultiMedia #IIITD https://t.co/RRMQpTIrqW",Dec-20-2018,06:14:52,0,3,None,Yes
+191,"@ACMMM19 is the premier international conference in the area of multimedia within the field of computer science. Multimedia research focuses on integration of the multiple perspectives offered by different digital modalities including images, text, video, music, and sensor data. https://t.co/8RPzQHnB34",Dec-19-2018,02:16:31,2,3,1,No
+192,"Feel free to contact us if you have any query on @ACMMM19. We look forward to your submissions to ACM Multimedia conference 2019. 
+
+Check more details on submission at https://t.co/xA2jk0KPPC
+
+#Multimedia #Research #ACMMM2019 #Nice",Dec-18-2018,14:42:27,3,2,None,No
+193,@NilayShri @RatnRajiv @ACMMM19 Looking forward to your paper to @ACMMM19.,Dec-18-2018,14:27:12,3,0,None,No
+194,"@midasIIITD head, Dr. @RatnRajiv appointed as one of the publicity co-chairs for @ACMMM19. ACM Multimedia is the premier conference for Multimedia research. We look forward to supporting a large number of submissions to https://t.co/QroXuO8ZAV this year from India. 
+
+#Multimedia",Dec-18-2018,14:15:32,12,5,None,No
+195,@ACMMM19 @the_dhumketu fill the volunteer form for reviewer.,Dec-18-2018,12:34:10,1,0,None,No
+196,New in 2019! Volunteer to serve as ACM Multimedia Area Chair or Reviewer. Please provide information on your qualifications in the volunteer form. https://t.co/LCJGeP7BNy,Dec-18-2018,12:33:42,0,7,None,Yes
+197,"Congratulations! authors Yaman @the_dhumketu, @RatnRajiv, and team @midasIIITD for winning the best poster runner-up at 20th IEEE International Symposium on Multimedia (ISM) conference 2018. 
+
+Watch sample demo of their work at https://t.co/ARRD3j934s
+
+#research #multimedia https://t.co/Wv7dJAba6u",Dec-18-2018,04:38:35,0,3,None,Yes
+198,"Best wishes to @midasIIITD students @_himanshu0113, @Hitkul_, and Shivangi on starting their research internship at National Institute of Informatics (NII), Tokyo, Japan. They will be working with our collaborators Prof Yu and Prof Satoh for six months. 
+
+#internship #tokyo #nii https://t.co/JwWA8D9uHH",Dec-17-2018,16:57:00,14,4,1,No
+199,"Computer model could improve human-machine interaction, provide insight into how children learn language. https://t.co/ToQo6GTMcG https://t.co/aSBINEDMuE",Dec-17-2018,15:05:44,0,20,None,Yes
+200,"Great @Wired interview with Geoff #Hinton on #AI risks, explanation, Graphcore chips, brain vs neural nets, and why there will not be an AI winter (because it drives your cellphone now)  https://t.co/T11jHgSuji https://t.co/gpUn2d5eFi",Dec-17-2018,14:37:00,0,20,None,Yes
+201,A defective metabolic pathway in aging immune cells may explain why the elderly commonly experience weakened immunity https://t.co/53rju5gPjb,Dec-17-2018,14:05:47,0,167,None,Yes
+202,Thread on (neural) reasoning. 👇 https://t.co/kyJs5xztwA,Dec-16-2018,15:01:20,0,10,None,Yes
+203,"Congratulations! Yaman @the_dhumketu, Rohit, Salik, Yifang, Roger, @RatnRajiv for winning the best poster runner-up in 20th IEEE International Symposium on Multimedia (ISM) conference in Taichung, Taiwan.
+
+Great work team @midasIIITD MIDAS and @IIITDelhi. 
+
+#multimedia #ieee #ism https://t.co/zZk21IBAS1",Dec-12-2018,03:56:19,16,3,1,No
+204,"Yaman @the_dhumketu presented our idea of reconstructing speech from silent videos based on lip movements in the ""Brave New Idea"" session of ACM Multimedia 2018 in Seoul, South Korea. 
+A proud moment for @midasIIITD since it is one of the only five selected papers.
+#Congrats https://t.co/vEN9WFwMJQ",Dec-01-2018,15:24:51,20,4,1,No
+205,"Several Research Assistant and Intern positions are available at @midasIIITD lab. Check https://t.co/tfdisnpfw1 for more details. 
+
+#RA #internship #research #ML #ComputerVision #SpeechProcessing https://t.co/vaTjL3yk9S",Nov-21-2018,04:08:34,11,10,1,No
+206,Variational Autoencoders Explained – Towards Data Science https://t.co/g2HC2ne5DW https://t.co/CHkAMeYoNz,Nov-20-2018,09:05:09,0,10,1,Yes
+207,"Positions for research assistants and interns are open at the @midasIIITD Lab. Check https://t.co/tfdisn7E7r for more details.  
+
+Check more details of MIDAS at https://t.co/pibbLXnvMh
+
+Last date: 28 Nov 2018
+
+#RA #MIDAS #Opening #Internship",Nov-19-2018,10:23:49,2,4,None,No
+208,"Congratulations @Leomi7 Meghna, @punnibhai Puneet, @RatnRajiv, and Dr. Shree Gopal Sharma for getting your paper, Exploring Classification of Histological Disease Bio-markers from Renal Biopsy Images, accepted to IEEE Winter Conference on Applications of Computer Vision (WACV). https://t.co/ho0IH1xcD0",Nov-05-2018,19:33:31,7,2,1,No
+209,"Application for Ph.D. admission at @IIITDelhi is open now. 
+Check more details at https://t.co/qZ21U9ugwg.
+Deadline: 16 Nov 
+#PhD #Admission #IIITD",Nov-02-2018,04:31:26,4,3,None,No
+210,1/n The Wonderful World of Fine Tuned Language Models. Thread👇,Nov-02-2018,04:08:47,0,39,None,Yes
+211,"My 2 full papers and 2 student papers selected in @RealAAAI !!
+@midasIIITD Rocks!! 
+Thanks @RatnRajiv , @debanjanbhucs 
+#AAAI #EAAI",Nov-01-2018,03:20:32,0,2,None,Yes
+212,"@the_dhumketu @sundarpichai @GoogleAI @Googleorg @RatnRajiv We will be very happy to contribute for the same. 
+The theme of our lab @midasIIITD is the same, AI for social good. 
+Hope to work with @GoogleAI for the same.",Oct-31-2018,04:49:32,0,0,None,No
+213,"Two @midasIIITD interns, @Leomi7 and Sahil Chopra, are attending EMNLP 2018 to present our papers. Best wishes to them for their first and the best NLP conference visit. 
+
+#EMNLP #WASSA @SMM4H #AWL #WMT #NLP #Interns #Research",Oct-29-2018,08:47:07,9,4,None,No
+214,"Need Help Getting Started with Applied Machine Learning? All ML beginners should go through it first. 
+
+https://t.co/ORpdNPubOw
+
+Thanks, @Hitkul_ for sharing.",Oct-28-2018,03:25:51,1,0,None,No
+215,"Two student papers got accepted at AAAI despite this year 70% more submissions and the number of accepted papers same than the last year.
+1. Mind your Language: Abuse and Offense Detection for Code-Switched Languages 
+2. Lipper: Speaker Independent Lipreading
+Congrats @midasIIITD",Oct-28-2018,02:48:34,14,4,None,No
+216,"Another #ACMMM18 paper titled, ""Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization"", is online now at https://t.co/uVATECqxVT
+
+#ACMMM18 #ACMMM #Multimedia #MIDAS",Oct-24-2018,11:41:59,4,0,None,No
+217,"Our paper on ""Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed"" is online now at https://t.co/dHex1leFw8
+
+You may see the demo at https://t.co/SIpbFRhonq 
+
+#ACMMM18 #ACMMM #Multimedia #MIDAS",Oct-24-2018,11:39:32,1,0,None,No
+218,"One of our papers on ""Detection of Personal Intake of Medicine from Twitter"" published in IEEE Intelligent Systems Journal. https://t.co/CneUTcfpb3 #Healthcare #HealthTech #NLProc",Oct-22-2018,03:54:29,0,2,None,Yes
+219,"Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU &amp; Distributed setups  
+https://t.co/nAELMYGCie",Oct-17-2018,09:07:33,4,0,None,No
+220,"@smnh_azadi @goodfellow_ian FYI, @the_dhumketu",Oct-17-2018,07:10:25,0,0,None,No
+221,Apply this simple rejection sampling technique to get rid of the bad samples generated by your GAN model. https://t.co/Mcfi3wJqqH,Oct-17-2018,07:09:47,0,45,None,Yes
+222,@UniofOxford @turinginst Check @Leomi7 @punnibhai,Oct-17-2018,07:08:59,0,0,None,No
+223,"We are making available a large multimodal multiparty dataset, manually annotated for emotion and sentiment. With D. Hazarika, N. Majumder, G. Naik, E. Cambria, @radamihalcea.
+
+MELD includes 13,000 utterances in 1,300 dialogues.
+
+https://t.co/LhwDZ96wqD
+
+Enjoy! :) https://t.co/3Z9nqMagMK",Oct-17-2018,07:07:43,0,16,None,Yes
+224,"Thank you, Dr. Debanjan Mahata @debanjanbhucs https://t.co/vXGHxkd2T3",Oct-16-2018,17:45:30,0,0,None,No
+225,"Dear Colleagues, 
+
+3 more days to go.
+@mr2amc  Deadline extended until Oct 18 Please consider submitting your research contribution to the 2nd MR2AMC:  Multimodal Representation, Retrieval, and Analysis of Multimedia  Content in Social Media workshop at the 20th IEEE ISM 2018.",Oct-16-2018,03:44:19,0,2,None,Yes
+226,"My internship experience @midasIIITD during summer 2018.
+“Content-based Video Relevance Prediction” https://t.co/rqovlLUSI7",Oct-15-2018,11:09:59,0,2,None,Yes
+227,"@AKASH_2907 @AKASH_2907, it was great having you at @midasIIITD. 
+We hope it was a great learning experience for you. 
+We wish your submitted paper will get accepted soon.",Oct-15-2018,11:09:53,0,0,None,No
+228,"The demo of our MyLipper system which got accepted to the 20th IEEE International Symposium on Multimedia 2018 conference is as follows: https://t.co/SIpbFQZNvS. 
+
+Thank you, @the_dhumketu , Rohit, and Salik for the great work. 
+
+#Demo #MyLipper #ISM #MIDAS #IIITD #Multimedia",Oct-13-2018,13:50:07,5,2,None,No
+229,"Congratulations Yaman @the_dhumketu, Rohit, Salik, and Dr. Shah @RatnRajiv on getting their paper titled, ""MyLipper : A Personalized System for Speech Reconstruction using Multi-View Visual Feeds"", accepted to the 20th IEEE International Symposium on Multimedia (ISM) conference.",Oct-12-2018,17:50:10,5,1,None,No
+230,"Dear Colleagues,
+@mr2amc Deadline extended until Oct 18, 2018.
+Please consider submitting your research contribution to the 2nd MR2AMC: Multimodal Representation, Retrieval, and Analysis of Multimedia Content in Social Media workshop at the 20th IEEE ISM 2018.
+
+@midasIIITD share.",Oct-12-2018,03:48:01,0,2,None,Yes
+231,"Congratulations Puneet Mathur @punnibhai , Meghna Ayyar @Leomi7, Dr. Rajiv Ratn Shah @RatnRajiv, and Dr. Shree Gopal Sharma on getting their paper (Harnessing AI for Kidney Glomeruli Classification) accepted to 20th IEEE International Symposium on Multimedia. 
+#ISM #MIDAS #IIITD",Oct-12-2018,03:37:46,10,3,None,No
+232,"MTech and Ph.D. students of @IIITDelhi, if you are interested in pursuing 6 months research internship at National Institute of Informatics (NII), Japan then you may contact @midasIIITD founder Dr. @RatnRajiv for the same. 
+
+Last date: 31 Oct
+
+#research #internship #tokyo #japan",Oct-10-2018,17:56:45,7,1,None,No
+233,"Thank you, @nvidia for your support. https://t.co/teGlvxhCKr",Oct-09-2018,17:25:48,13,3,1,No
+234,"MR2AMC'18: Multimodal Representation, Retrieval, and Analysis of Multimedia Content in Social Media       
+Deadline: October 7, 2018       
+Best paper award anticipated       
+Keynote talks by top researchers
+https://t.co/uijUfXD3K1  
+@midasIIITD please submit some papers.",Oct-06-2018,15:22:39,0,1,None,Yes
+235,"Best GAN samples ever yet? Very impressive ICLR submission! BigGAN improves Inception Scores by &gt;100.
+
+Paper: https://t.co/DEVUtFaPd3
+Lots more samples: https://t.co/FSUqs2L7Xm https://t.co/kbD8I8xrGH",Sep-30-2018,07:22:30,0,575,None,Yes
+236,"I compiled a list of top ten reasons to study Computer Science, and with the help of talented graphic designers, turned them into an infographic (high quality pdf here https://t.co/h3n5vnPgUx)
+
+The #1 reason? Make a difference in the world!
+
+Share and spread the love for CS. https://t.co/qEhJzwfcf4",Sep-30-2018,07:20:56,0,47,None,Yes
+237,"Too many Turing awards, Field medals, Abel prizes, and Nevanlinna prizes in a frame. 😆
+Thank you, @HLForum for providing a platform to young researchers to meet, discuss, and spend a week with laureate in CS and Maths.
+
+@midasIIITD @IIITDelhi encourage your students to apply. https://t.co/8WWuMKAbOD",Sep-28-2018,21:36:34,0,1,None,Yes
+238,"Thank you, @HLForum for organizing a wonderful conference with laureate in computer science and mathematics. 
+It could not be done better than this. 
+Thanks for providing an opportunity. https://t.co/r9ThrbXq7N",Sep-28-2018,21:17:16,0,1,None,Yes
+239,Congrats @midasIIITD student @Simcyy for getting selected to @Adobe Research for her summer internship in 2019.,Sep-22-2018,20:53:27,4,1,None,No
+240,"MR2AMC'18: Multimodal Representation, Retrieval, and Analysis of Multimedia Content in Social Media
+   
+  Deadline: October 7, 2018
+   
+  Best paper award anticipated
+   
+  Keynote talks by top researchers in multimedia research
+   
+  https://t.co/uijUfXlslr 
+ 
+  @midasIIITD",Sep-12-2018,09:48:48,0,2,None,Yes
+241,"Please submit your research papers on multimedia, social media, and multimodal computing to @mr2amc 2018. More details can be found at https://t.co/uijUfXlslr
+
+#MR2AMC #ISM #IEEE #Multimedia #Research #SocialMedia",Sep-10-2018,17:46:41,0,2,None,Yes
+242,Summarizing some recent developments in word embeddings #nlp https://t.co/XykpLifuop,Sep-10-2018,05:37:01,0,3,None,Yes
+243,Excellent post for those working on word embeddings #NLP #MachineLearning  https://t.co/xENTzh7GrZ,Sep-09-2018,05:14:58,0,2,None,Yes
+244,"@sharmadrishti @IIITDelhi @emnlp2018 Thank you, @sharmadrishti @midasIIITD @midasIIITD @RatnRajiv",Sep-06-2018,09:59:01,1,0,None,No
+245,"Congratulations team @midasIIITD
+for getting 4 papers accepted to @emnlp2018 workshops.  1) Offensive Tweets Classification, 2) Identification of Blood Donation Request on Twitter, 3) Exploring and Learning Suicidal Ideation Connotations on Social Media, 4) NMT for English-Tamil",Sep-06-2018,05:08:53,0,4,None,Yes
+246,"Auto-Keras, or How You can Create a #DeepLearning Model in 4 Lines of Code #KDN https://t.co/A1FgKE0ZKA",Sep-05-2018,18:05:33,0,11,None,Yes
+247,Big Change: Diabetes patients are looking for diabetes management systems.  Manufacturers of continuous glucose monitoring devices seem to be getting the message.  This will be a major change for diabetes sufferers. #FutureHealth #PHN https://t.co/qqoQk0BMSH,Sep-05-2018,17:14:12,0,1,None,Yes
+248,#NIPS2018 The main conference sold out in 11 minutes 38 seconds,Sep-04-2018,18:22:18,0,688,None,Yes
+249,"Paper titled, ""Exploring and Learning Suicidal Ideation Connotations on Social Media with Deep Learning"", got accepted to WASSA at @emnlp2018 
+Congratulations authors, Ramit Sawhney, Prachi Manchanda, @punnibhai, @RatnRajiv, Raj Singh for great work.
+#MIDAS #EMNLP #WASSA #IIITD",Sep-04-2018,16:19:56,5,1,None,No
+250,"The fourth paper (and 3rd of @punnibhai) got accepted into @emnlp2018 workshops. Congratulations Team @midasIIITD 
+
+#MIDAS #EMNLP #Achievment #Success #IIITD #WASSA",Sep-04-2018,16:16:37,3,1,None,No
+251,"Calls for papers for #naacl2019 are up!
+Research track: https://t.co/tvFJx6P3Zs",Sep-04-2018,15:54:18,0,34,None,Yes
+252,"Text Classification &amp; Embeddings Visualization Using LSTMs, CNNs, and Pre-trained Word Vectors https://t.co/ir0jssoMkh https://t.co/vXqRTUUATO",Sep-04-2018,01:10:31,0,28,None,Yes
+253,"@mr2amc challenge on ""Multimodal Sentiment Analysis Challenge"" is up now. You may visit the following link for more details: 
+
+https://t.co/1ToO2qBPV9
+
+Please share the challenge @midasIIITD @soujanyaporia @debanjanbhucs 
+
+#MIDAS #MR2AMC #ISM #IEEE #Challenge #Sentiment #Emotion",Sep-03-2018,13:14:52,0,3,None,Yes
+254,"Submitting to The Web Conference 2019 (WWW 2019) in San Francisco? Abstracts due Oct. 29, full papers Nov. 5! Full CFP: https://t.co/dgESpey5IY",Sep-01-2018,17:25:56,0,33,None,Yes
+255,First Steps of Learning Deep Learning: Image Classification in Keras https://t.co/eroBz5EhS8 https://t.co/5CN1eQHbTP,Sep-01-2018,14:55:48,0,25,1,Yes
+256,"@debanjanbhucs @debanjanbhucs, thanks for sharing. 
+@the_dhumketu this will be useful.",Sep-01-2018,03:09:52,1,0,None,No
+257,"GREAT 9-page reference in basic #datascience. Here: https://t.co/g3EHvtd65h
+
+Covers basic concepts in probability, #statistics, #statisticallearning, #machinelearning, #bigdata frameworks and #SQL 
+
+#ML #AI #DL #analytics @rstats #datascientist @kdnuggets https://t.co/00eXY6kyQS",Sep-01-2018,03:07:55,0,9,None,Yes
+258,Nice blog post about FAIR's work on unsupervised language translation. https://t.co/DfJWizDHeA,Aug-31-2018,17:50:25,0,21,None,Yes
+259,"If you are holding Junior Research Fellowship (JRF) in computer science and looking for Ph.D. at the @midasIIITD lab, please contact us at https://t.co/pEMPKivWvO
+
+#MIDAS #PhD #IIITD #MachineLearning #NLP #ComputerVision #Multimedia #Healthcare #AI #ProfShah",Aug-31-2018,05:28:31,3,3,None,No
+260,"https://t.co/46MisEZT5n Deep learning for predicting aftershocks of large earthquakes. Besides offering better predictions, interpretations of the model suggest promising directions for new physical theories https://t.co/b4bAvo6YZG",Aug-31-2018,03:23:10,0,196,None,Yes
+261,"@BloodDonorsIn Not everyone is aware of your handle and nor all can fill the form that you want people to fill. We, @midasIIITD, can automate the process using machine learning technologies to help in your mission to help society.",Aug-30-2018,09:31:43,0,1,None,No
+262,"@BloodDonorsIn you may call us at 01126907495 or email us at midas@iiitd.ac.in to discuss opportunities to help you in your mission. 
+@midasIIITD is a group of researchers in @IIITDelhi who use technology to help society. We can help by finding blood donors/seekers automatically.",Aug-30-2018,09:28:48,0,0,None,No
+263,Many European country should dramatically increase their R&amp;D investments. https://t.co/27htpbr9P0,Aug-30-2018,09:20:55,0,468,None,Yes
+264,"Need Hindi-English Code-Mixed #POS Tagged data? Code: https://t.co/leACdMdOnG Data: https://t.co/qoj6p9tMQc from our recent #SocialNLP #ACL2018 paper, A Twitter Corpus for #Hindi #English Code Mixed POS Paper: https://t.co/sS57onw1EW #Research #Dataset #ProfGiri \c @drealcharbar https://t.co/Ru2bTTwgKF",Aug-30-2018,04:32:16,0,2,None,Yes
+265,NVIDIA Blog: Supervised Vs. Unsupervised Learning https://t.co/qLhByopdqT https://t.co/8aRgrEa3TX,Aug-29-2018,15:27:21,0,5,1,Yes
+266,"Delhi government nods construction of Phase-2 of DTU, IIIT-D https://t.co/OfBtFs9R3g",Aug-29-2018,08:25:05,0,1,None,Yes
+267,@medialab @TechXplore_com an interesting problem to pursue @the_dhumketu @RatnRajiv @mr2amc,Aug-28-2018,17:27:03,1,0,None,No
+268,Google data collection research via @DCNorg https://t.co/WOKPIhb5dK,Aug-28-2018,17:24:55,0,1,None,Yes
+269,"""Ubiquitous Event Mining to Enhance Personal Health"" is the #1 paper on Arxiv today in human-computer interaction. Congrats @vaibhav1981 @jain49. See it at -&gt; https://t.co/CLJ2PLDIt9 and https://t.co/YMBIJUtlFw. Please retweet.",Aug-28-2018,14:17:19,0,2,None,Yes
+270,"Congratulations @midasIIITD PI, @RatnRajiv, on getting selected for the SAP Grant at the 6th Heidelberg Laureate Forum. 
+He is among the 200 most qualified young researchers across the world are
+provided an opportunity to meet Laureates in CS and Maths for a week at Heidelberg.",Aug-28-2018,13:56:15,7,0,None,No
+271,Great to hear this.  #FoodComputing #FutureHealth https://t.co/qH1zns8MpG,Aug-26-2018,17:13:49,0,1,None,Yes
+272,"@ponguru @IIITDelhi @AhujaSheetu @DheerajSanghi Best wishes to all graduates of @IIITDelhi. 
+@midasIIITD looks forward to in touch with all. 
+
+#MIDAS #IIITD #Convocation #Success",Aug-25-2018,05:05:20,2,1,None,No
+273,Understanding Deep Convolutional #NeuralNetworks with a practical use-case in Tensorflow and Keras #KDN https://t.co/Yiop03C6Y1,Aug-24-2018,04:59:43,0,32,None,Yes
+274,"Everybody Dance Now!
+Exciting new work on conditional video synthesis from Berkeley.
+https://t.co/kXGsZ8O4zA https://t.co/TuSKr6BT1m",Aug-24-2018,04:59:16,0,8427,None,Yes
+275,We have a hot new dataset for 🔥NLI with commonsense🔥! --- 113k multiple choice questions adversarially constructed to make your favorite LM/NLI/QA models struggle 😎 Stay tuned for the leaderboard going online in two weeks! #nlproc #emnlp2018 @uwnlp https://t.co/O9bJLIlA8k,Aug-23-2018,17:28:15,0,77,None,Yes
+276,"We are releasing a brand new dataset of fake news, covering several domains
+https://t.co/aq5s3rV7ti
+
+Read the paper here
+https://t.co/OsyMUL3Bur
+
+Here is to many more fake news detection systems to come!",Aug-23-2018,15:56:47,0,83,None,Yes
+277,"""Did you offend me? Classification of Offensive Tweets in Hinglish Language.""
+
+Many congratulations to @midasIIITD @IIITDelhi researchers Puneet Mathur @punnibhai, Ramit Sawhney, Meghna Ayyar @Leomi7 for their paper being accepted to ALW2 in #EMNLP 2018.
+
+#MIDAS #Achievement",Aug-23-2018,14:48:45,6,1,None,No
+278,"Congratulations @midasIIITD interns, @punnibhai Puneet, @Leomi7 Meghna, Sahil Chopra, Simra Shahid, and Laiba Mehnaz for getting their paper, titled ""Identification of Emergency Blood Donation Request on Twitter"", accepted to the SMM4H EMNLP 2018. First work to do so. 
+#MIDAS",Aug-23-2018,09:01:29,7,2,None,No
+279,https://t.co/GOyrocgXf4,Aug-23-2018,07:19:47,8,1,1,No
+280,"TCS Foundation inaugurated Centre for Design and New Media at @IIITDelhi. @midasIIITD is proud to be the part of this center. We got an opportunity to show our recent work to Mr. Ananth Krishnan (TCS CTO), Mr. Ajoyendra Mukherjee, and Mr. Niranjan Pedanekar. Glad, they liked them",Aug-23-2018,07:17:40,8,3,None,No
+281,"@RatnRajiv Another paper will help companies or people to find offensive tweets in Hinglish automatically. Our method will help them to automatically delete such content, block and report such person, and many other interesting problems on social media.",Aug-23-2018,03:38:51,2,1,None,No
+282,"Congratulations all @midasIIITD interns for your great work. 
+One of our accepted work will help patients to reach a suitable blood donor soon. https://t.co/vdt3yIpdQL",Aug-23-2018,03:34:39,4,2,None,No
+283,"@Thom_Wolf @stanfordnlp @sivareddyg @hhexiy @yatskar @MohitIyyer @the_dhumketu @RatnRajiv 
+A great scope to work on this dataset.",Aug-23-2018,03:31:55,1,0,None,No
+284,@danqi_chen @stanfordnlp FYI @the_dhumketu,Aug-22-2018,19:22:16,1,0,None,No
+285,Awesome #DeepLearning: Most Cited #DeepLearning Papers #KDN https://t.co/szGieAzboH,Aug-22-2018,16:11:43,0,33,None,Yes
+286,"People usually get information from others in a multi-turn conversation. To approach this, we’ve released CoQA 🍃—A Conversational Question Answering Challenge by @sivareddyg•@danqi_chen•@chrmanning. 127K Qs— free-form answers—with evidence—multi-domain. https://t.co/XkdWC2Hh3W https://t.co/v0FXMnNg8n",Aug-22-2018,15:50:12,0,233,None,Yes
+287,Team @midasIIITD looking forward to with CDNM. https://t.co/h4roiaL1X6,Aug-22-2018,12:53:38,4,1,None,No
+288,"After 3 years of blogging about NLP, with the goal of writing in simple words that non-experts can understand, I finally dared to write about deep learning... it ended up a very long post :)
+https://t.co/8f9T64MuNZ",Aug-22-2018,05:35:37,0,61,None,Yes
+289,"With immense ambition &amp; hope, inaugurated the sprawling @IIITDelhi Phase 2 Campus with Hon'ble CM @ArvindKejriwal 
+
+The total capacity of IIIT-D has now reached 3000 students from 1000 in 2015. Good thing is that 85% of the students are from Delhi Schools. https://t.co/0e4BKT0vJR",Aug-22-2018,04:56:37,0,496,None,Yes
+290,Video-to-video translation with conditional GANs https://t.co/DDmRSTkpri,Aug-22-2018,04:56:22,0,87,None,Yes
+291,"RT @afshinea 🔥Set of illustrated Machine Learning cheat sheets from Stanford's CS 229 class:
+Deep Learning: https://t.co/BNQ7FpUum4 
+Supervised Learning: https://t.co/5bhzGHlUCl 
+Unsupervised Learning: https://t.co/ZaD94OQNNN 
+Tips and tricks: https://t.co/SciByei6a1 https://t.co/ol2l2sdglt",Aug-22-2018,04:56:17,0,554,None,Yes
+292,"Beginning to understand what we eat better. Next, controlling it through engineering. #FoodComputing https://t.co/PpMwnqFvak via @WIRED",Aug-20-2018,05:41:16,0,1,None,Yes
+293,"Our paper titled, ""IceBreaker: Solving Cold Start Problem for Video
+Recommendation Engines"", is now available on Arxiv. 
+
+https://t.co/zuNS7DQ6MY
+
+#MIDAS #Arxiv #IIITD #IceBreaker #VideoRecommendation",Aug-20-2018,04:32:09,3,1,None,No
+294,"Call for papers: MR2AMC 2018, Taichung, Taiwan.
+
+https://t.co/gBhtnsyUk3",Aug-20-2018,03:51:43,0,1,None,Yes
+295,"Our paper titled, ""Neural Machine Translation for English-Tamil"", is got accepted to the third Conference on Machine Translation (WMT18) in EMNLP 2018.
+
+#EMNLP #NLP #MT #MIDAS",Aug-19-2018,09:19:12,9,0,None,No
+296,"Team @midasIIITD, please spread CFP for @mr2amc 
+
+#ISM #MR2AMC #IEEE #MIDAS https://t.co/D2ZJjYR8N4",Aug-18-2018,19:04:18,0,3,1,Yes
+297,"Our paper submission system is ready on EasyChair for @mr2amc 
+
+https://t.co/kMfbLOcz6x
+
+You may submit your original contribution on Multimodal Representation, Retrieval, and Analysis of Multimedia Content in Social Media. 
+
+FYI, @midasIIITD @IIITDelhi 
+
+#IEEE #ISM #IIITD #MIDAS",Aug-18-2018,17:19:21,0,3,None,Yes
+298,"How do you choose the hyperparameters of an NN model? While current methods revolve around trial and error, this becomes infeasible when the number of hyperparameters is large. Find out more in our 2 min TLDR: https://t.co/YgOMUKE2lJ",Aug-18-2018,03:55:34,0,5,None,Yes
+299,Diving Deep into Deepfakes https://t.co/gM5xM4pMkz https://t.co/o969Jpeuwr,Aug-16-2018,06:13:04,0,12,1,Yes
+300,"Congratulations @midasIIITD @IIITDelhi interns, Deepanshu, Meghna, and Ashutosh for getting their paper accepted to the MAPonSMS'18 task of the 10th Forum for Information Retrieval Evaluation (FIRE) conference. Paper will be published in the Springer LNCS. #MIDAS #Achievment",Aug-16-2018,04:30:12,7,3,None,No
+301,"This is magic. In fact, more than magic, real transformation. https://t.co/tQbbb8Ka36",Aug-15-2018,14:38:37,0,1,None,Yes
+302,The Best Metric to Measure Accuracy of Classification Models #KDN https://t.co/RBFTGnKr5M,Aug-15-2018,14:37:22,0,6,None,Yes
+303,KDnuggets 18:n31: Top 10 roles in #AI and #datascience; Github Data Science Spotlight: #Python tools for #MachineLearning https://t.co/7ofzB6HRCT https://t.co/zBH034uAHA,Aug-15-2018,14:36:08,0,6,None,Yes
+304,"Looking for ideas / projects in #privacy and #security in #socialnetwork? Here is a list of ideas that you can explore https://t.co/MpguCZ4ejU 22 project ideas. If you or others interested in taking it forward, please feel free to PM me. Will be happy to help. #ProfGiri https://t.co/Yt6E7zNdRe",Aug-15-2018,09:03:25,0,4,None,Yes
+305,"#COLING2018 proceedings are now in the ACL Anthology! https://t.co/75kJ0btl3M
+
+#nlproc #linguistics Check out those multilingual abstracts!",Aug-13-2018,10:48:07,0,28,None,Yes
+306,"Very interesting! We at @midasIIITD, also doing some work on @DigitalHealth. Hope to present them in upcoming conferences. https://t.co/jx21cAdqoE",Aug-12-2018,15:07:30,3,1,None,No
+307,"GitHub Python Data Science Spotlight: AutoML, NLP, Visualization, ML Workflows https://t.co/83nUhUzxF6 https://t.co/213EnP8xKv",Aug-12-2018,14:19:37,0,45,None,Yes
+308,"@mr2amc will be organized by Prof @RatnRajiv and A V Subramanyam (@IIITDelhi ), Prof Roger Zimmermann and Yifang Yin (@NUSComputing), Dr @debanjanbhucs (@TechAtBloomberg), and Dr @soujanyaporia (@NTUsg).
+It will be held in conjunction with @IEEEorg ISM 2018 in Taichung, Taiwan",Aug-12-2018,13:11:04,0,2,None,Yes
+309,"Our workshop proposal on Multimodal Representation, Retrieval, and Analysis of Multimedia Content in Social Media (MR2AMC) https://t.co/uijUfXD3K1 has been accepted to the 20th IEEE ISM https://t.co/33lx9mKsf6.
+Looking forward to your contribution.
+#MIDAS #MR2AMC #ISM #Multimedia",Aug-12-2018,09:07:16,0,2,None,Yes
+310,NLP's ImageNet moment has arrived » https://t.co/miZDIXKpq5 #natural language processing #nlp #transfer learning,Aug-12-2018,04:29:38,2,0,None,No
+311,@soujanyaporia @nlp Congrats Dr. @soujanyaporia,Aug-11-2018,08:48:40,1,0,None,No
+312,Ultimate Guide to Getting Started with Tensorflow https://t.co/tWpYBsmbG5 https://t.co/jXi4GK97mX,Aug-09-2018,10:17:53,0,111,1,Yes
+313,TensorFlow 1.10.0 has been released! Please see the full release notes for details on added features and changes ↓ https://t.co/mLvuSc51br,Aug-09-2018,05:59:57,0,265,None,Yes
+314,"@midasIIITD is looking for motivated IIITD MTech students who have an interest in research and deep learning techniques. 
+If you have plans for doing Ph.D. in near future then you may consider pursuing your MTech thesis at MIDAS. @IIITDelhi",Aug-08-2018,11:30:56,2,1,None,No
+315,@IIITDelhi @ponguru @RatnRajiv The results of @midasIIITD are as follows https://t.co/I8bOPaJSQv,Aug-08-2018,05:53:48,3,1,1,No
+316,"@midasIIITD has secured rank 1 in the IRMiDis challenge of the 10th FIRE 2018 conference. Congratulations MIDAS interns, Saket Anand and Rajat Gupta, who were working in the supervision of Prof @ponguru and Prof @RatnRajiv.",Aug-08-2018,05:45:58,0,1,None,Yes
+317,Comparison of Top 6 Python NLP Libraries https://t.co/3ubomIUh4N https://t.co/KgP6R9mZsD,Aug-07-2018,07:16:33,0,40,1,Yes
+318,"Check more details of the 20th IEEE International Symposium on Multimedia (ISM) conference at https://t.co/wMIaXBfCYR.
+ It is an international forum for researchers to exchange information regarding advances in the state of the art and practice of multimedia computing.
+#MR2AMC",Aug-07-2018,02:05:12,1,1,None,No
+319,"MR2AMC@ISM 2018 will be organized by @RatnRajiv (@midasIIITD), @debanjanbhucs (@TechAtBloomberg), Yifang Yin (@NUSComputing), and @soujanyaporia (@NTUsg). Thanks to Prof Roger Zimmermann (NUS) for being the honorary chair for the workshop. 
+#ISM2018 #IEEE #MIDAS @IIITDelhi 2/2",Aug-07-2018,01:58:49,1,1,None,No
+320,"Our workshop proposal named, ""MR2AMC: Multimodal Representation,
+Retrieval, and Analysis of Multimedia Content in Social Media"", has been accepted to the 20th IEEE International Symposium on Multimedia (ISM) conference. Looking forward to your contributions. 
+#MIDAS #ISM2018  1/2",Aug-07-2018,01:50:33,1,1,None,No
+321,@NUSComputing Congratulations Abdelhak and Prof Zimmermann.,Aug-06-2018,17:48:23,0,0,None,No
+322,One of the most anticipated GAN names now taken: paGAN. https://t.co/ifUgy40O8t https://t.co/NvxKDwEMZz,Aug-06-2018,17:46:59,0,103,1,Yes
+323,@the_dhumketu Great to have you in @midasIIITD,Aug-06-2018,06:06:47,0,0,None,No
+324,Congratulation @soujanyaporia for being appointed as an Adjunct Faculty of @IIITDelhi. He will be working with team @midasIIITD in collaboration with Prof @RatnRajiv on several interesting projects. Welcome to MIDAS and IIITD family. #NTU #IIITD #MIDAS #Collaboration,Aug-03-2018,05:56:33,6,1,None,No
+325,@IIITDelhi @the_dhumketu Thanks team @midasIIITD https://t.co/2WvhaHBq3h,Aug-01-2018,11:47:15,5,1,1,No
+326,"Congratulations @midasIIITD intern @the_dhumketu for getting his paper titled,""Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed"" accepted in the Brave New Idea 2018 of ACM Multimedia (approx 8% acceptance rate). Visit https://t.co/FUqFE704q3 to join us.",Aug-01-2018,11:20:07,0,4,None,Yes
+327,"Profile of the 5 Indian undergrads admitted to MIT for 2018-2022 session. 
+Note, how they grabbed the Linguistics Olympiad toppers. Done it before as well. Great selection so much going on in Natural Language Processing and Computational Linguistics.
+
+https://t.co/B5aoXjt0Zj https://t.co/VGANqPMVjj",Aug-01-2018,05:06:47,0,4,None,Yes
+328,"Have a look at the list of accepted papers in ACM Multimedia 2018 if you are willing to work on some interesting multimedia research problems. 
+https://t.co/TEPg200yB6
+
+#MIDAS #ACMMultimedia2018 #ACM #MultimediaResearch #Multimedia #IIITD #NUS #NII",Jul-31-2018,12:11:52,1,0,None,No
+329,"https://t.co/hYiWI7ntyk TensorFuzz automates the process of finding inputs that cause some specific testable behavior, like disagreement between float16 and float32 implementations of a neural network https://t.co/Nt9YX5kJXU",Jul-31-2018,02:06:26,0,264,None,Yes
+330,"Congratulations Dr. @RatnRajiv and team @midasIIITD for getting their paper titled,""Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization"" accepted in ACM Multimedia 2018, a top-tier conference for multimedia. Visit https://t.co/FUqFE704q3 to join MIDAS.",Jul-30-2018,07:30:51,0,2,None,Yes
+331,"Jitendra Malik, who directs FAIR-Menlo Park, talks about the future of computer vision in his acceptance talk after receiving the John McCarthy Research Excellence Award at IJCAI. https://t.co/vlijkINxGO",Jul-28-2018,11:07:11,0,57,None,Yes
+332,".@Bloomberg launches free course  ""Foundations of #MachineLearning"" for those with Strong #Math Backgrounds  https://t.co/9RrI4yxfAs https://t.co/t3NfEwDiCO",Jul-28-2018,06:14:09,0,105,None,Yes
+333,Missed #PyLondinium18? Watch the videos of the keynotes and other speakers now: https://t.co/ZdsCV6csy7,Jul-28-2018,06:13:48,0,7,None,Yes
+334,"We are delighted to announce that @IIITDelhi has joined hands with University at Buffalo, the State University of New York for a collaborative Ph.D. programme. Prof. Satish K Tripathi, President, University at Buffalo, SUNY and Prof. Pankaj Jalote, Director IIITDe signed the MoU. https://t.co/D46OfVCsp6",Jul-28-2018,04:08:21,0,6,None,Yes
+335,"Get ready for the annual technical fest of @IIITDelhi, Esya, on 17th and 18th August 2018. The theme for this year's edition is Technology for Social Change and all the events will be incorporated with the same.
+Check more details at https://t.co/kpINK6bfU5 #ESYA #MIDAS #IIITD",Jul-27-2018,06:46:44,3,2,None,No
+336,"Congratulations Dr. @RatnRajiv and team @midasIIITD for getting their paper titled,""Learning and Fusing Multimodal Deep Features for Acoustic Scene Categorization"" accepted in ACM Multimedia 2018, a top-tier conference for multimedia. Visit https://t.co/pEMPKivWvO to join MIDAS.",Jul-27-2018,04:07:31,8,2,None,No
+337,Congratulations MIDAS @midasIIITD intern Prakhar Srivastava @prakharcode for being selected to give a talk in PyCon Poland @pyconpl and PyCon France @pyconfr. #MIDAS #Congratulations #PyCon #IIITD #Python #NUS #NII @pycon @IIITDelhi  @TechAtBloomberg @debanjanbhucs,Jul-25-2018,05:14:35,5,1,None,No
+338,MIDAS@IIITD foundation. https://t.co/LKuzyBHzjm,Jul-24-2018,10:33:23,2,1,None,No
+339,It feels great to be the part of @IIITDelhi. https://t.co/IRRTtIpC6D,Jul-24-2018,10:12:34,2,1,None,No
+340,"Thank you, @toonzratn for designing the logo of MIDAS. https://t.co/yx2u2Vs36Z",Jul-24-2018,09:46:26,4,1,1,No
+341,"We are on Facebook too. Like our page to get our updates. https://t.co/CRaw6KQPSf
+
+#MIDAS #IIITD #MultimediaResearch #NLP #ImageProcessing #DeepLearning #AI4HealthCare #Lipreading #FakeNewsDetection #CodeSwitchedLanguageProcessing #SocialMediaComputing #AI",Jul-23-2018,16:25:05,3,1,None,No
+342,"MIDAS is a group of researchers at IIIT-Delhi who study, analyze, and build different multimedia systems for society leveraging multimodal information. MIDAS stands for Multimodal Digital Media Analysis Lab and it is founded by Dr. Rajiv Ratn Shah. 
+URL: https://t.co/sPvbKgXKmg",Jul-23-2018,12:53:15,7,4,None,No
